@@ -1,9 +1,6 @@
 # asbilling cập nhật liên tục - 
 5/9/2012 Asterisk Accounting System, Asterisk Hotel Billing Management
-
-=video
-
-
+Current supported: Asterisk all version, FreePBX, Trixbox, Elastix, AsteriskNow IP PBX (32bit and 64 bit)
 Introduction
 
 Asterisk Call Billing System Details
