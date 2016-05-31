@@ -22,6 +22,7 @@ Change Log 12:31 AM 5/9/2012
 
 some sreenshot:
 ![alt tag](https://github.com/nhtdata/asbilling/blob/master/01.png?raw=true)
+![alt tag](https://github.com/nhtdata/asbilling/blob/master/03-report-by-exten.png?raw=true)
 
 ![alt tag](https://github.com/nhtdata/asbilling/blob/master/03-report-by-exten.png?raw=true)
 
