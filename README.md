@@ -20,13 +20,12 @@ http://asbilling.googlecode.com/files/AsteriskIPABX_install.pdf
 Các bạn có thể comment cho mình để mình hỗ trợ: http://code.google.com/p/asbilling/wiki/PageName
 Change Log 12:31 AM 5/9/2012
 
-some sreenshot: <img src"http://asbilling.googlecode.com/files/01.png">
+some sreenshot:
+![alt tag](https://github.com/nhtdata/asbilling/blob/master/01.png?raw=true)
 
-http://asbilling.googlecode.com/files/02-system-dashboard.png
+![alt tag](https://github.com/nhtdata/asbilling/blob/master/03-report-by-exten.png?raw=true)
 
-http://asbilling.googlecode.com/files/03-report-by-exten.png
-
-http://asbilling.googlecode.com/files/rate.png
+![alt tag](https://github.com/nhtdata/asbilling/blob/master/rate.png?raw=true)
 
 SUPPORT INFO Phone: (+84) 942 27 4727
 Email: nguyenhuytuan@live.com
