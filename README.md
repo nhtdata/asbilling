@@ -36,3 +36,6 @@ www.borotel.com
 
 archive 
 https://code.google.com/archive/p/asbilling/downloads
+
+Updated: 04-Oct-2016 - version released with table telephone rates;Call Billing v7.0.1; PMS
+
