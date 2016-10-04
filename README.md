@@ -1,6 +1,7 @@
 # Main Features of Call Accounting System, Billing Solution and Hotel Management System
 
 Updated: 04-Oct-2016 v7.0.1
+
 5/9/2012 Asterisk Accounting System, Asterisk Hotel Billing Management
 Current supported: Asterisk all version, FreePBX, Trixbox, Elastix, AsteriskNow IP PBX (32bit and 64 bit)
 Introduction
