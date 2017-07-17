@@ -17,7 +17,7 @@ Install GUIDE:
 
 http://asbilling.googlecode.com/files/AsteriskIPABX_install.pdf
 
-Các bạn có thể comment cho mình để mình hỗ trợ: http://code.google.com/p/asbilling/wiki/PageName
+
 Change Log 12:31 AM 5/9/2012
 
 some sreenshot:
@@ -27,14 +27,12 @@ some sreenshot:
 
 ![alt tag](https://github.com/nhtdata/asbilling/blob/master/rate.png?raw=true)
 
-SUPPORT INFO Phone: (+84) 942 27 4727
-Email: nguyenhuytuan@live.com
-Skype: tuanhuynguyen
-Yahoo! Messenger: kitosport
-MSN Messenger: nguyenhuytuan@hotmail.com
+Please feel free to let me know if you have any question
+SUPPORT INFO Phone: (+84) 942 27 4727 (viber, whatapp)
+Email: huytuan@nhtdata.com
+
 www.nhtdata.com
 www.vnaster.com
-www.hopnhanh.com
 www.borotel.com
 
 archive 
